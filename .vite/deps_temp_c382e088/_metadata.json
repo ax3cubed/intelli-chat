@@ -1,0 +1,41 @@
+{
+  "hash": "774d5ff8",
+  "browserHash": "367489ab",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "5e6936f8",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "35da1539",
+      "needsInterop": true
+    },
+    "redux": {
+      "src": "../../node_modules/redux/es/redux.js",
+      "file": "redux.js",
+      "fileHash": "e2b32a07",
+      "needsInterop": false
+    },
+    "redux-saga": {
+      "src": "../../node_modules/redux-saga/dist/redux-saga-core-npm-proxy.esm.js",
+      "file": "redux-saga.js",
+      "fileHash": "6f4ccfcd",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-BHRT4LQR": {
+      "file": "chunk-BHRT4LQR.js"
+    },
+    "chunk-QATEURQD": {
+      "file": "chunk-QATEURQD.js"
+    },
+    "chunk-RSJERJUL": {
+      "file": "chunk-RSJERJUL.js"
+    }
+  }
+}
